@@ -1,2 +1,4 @@
 # courseraAssignment2
 In this Assignment we were asked to make a responsive menu on a website. Using media queries and relative and absolute positing, we were able to position the titles of Chicken, Beef and Sushi. There are three different sizes we wanted the page to be responsive in: small(mobile), medium (tablets) and large(desktops). Using different media queries we were able to achieve a responsive page. The mobile version should have the three menu items stack on top of one another with space between them. The tablet version should have the chicken and beef menus next to one another in two columns. The sushi menu should be below those two and stretch the full width of the two menus above it. Lastly, the desktop version should be all three menus next to one another. 
+
+https://ciesluk.github.io/responsiveCSSFoodMenu/site/index.html
